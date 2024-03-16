@@ -1,4 +1,6 @@
-function Button() {
+function Button(props) {
+  const saveButton = props.saveButton;
+  
    return;
  }
  
